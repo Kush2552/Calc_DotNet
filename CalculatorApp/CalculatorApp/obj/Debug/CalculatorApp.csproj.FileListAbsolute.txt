@@ -1,0 +1,11 @@
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\GitHubThings\Dotnet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe.config
